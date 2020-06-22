@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import logo from '../assets/login_dashboard.svg';
+import logo from '../assets/svg/login_dashboard.svg';
 import { Container, Row, Col } from "react-bootstrap";
 
 class Dashboard extends Component {
